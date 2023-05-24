@@ -6,7 +6,7 @@ La página web "Es Tan Fácil" nace como un proyecto voluntario y altruista, con
 <img style="display: block; margin: 0 auto; text-align: center; vertical-align: middle; max-width: 100%; max-height: 100%;
 style="display: block; margin: 0 auto; text-align: center; vertical-align: middle; max-width: 100%; max-height: 100%; src='https://i.postimg.cc/8zgMhFbK/mobile-7.png' border='0' alt='EsTanFacil'/> 
 <img style="display: block; margin: 0 auto; text-align: center; vertical-align: middle; max-width: 100%; max-height: 100%;
-style="display: block; margin: 0 auto; text-align: center; vertical-align: middle; max-width: 100%; max-height: 100%;  src='https://postimg.cc/tsgK9RW2' border='0' alt='EsTanFacil'/> 
+style="display: block; margin: 0 auto; text-align: center; vertical-align: middle; max-width: 100%; max-height: 100%;  src='[![Campa-a-Es-Tan-F-cil-Firefox-Developer-Edition-2023-05-24-12-33-11-2.gif](https://i.postimg.cc/T3jfqpwM/Campa-a-Es-Tan-F-cil-Firefox-Developer-Edition-2023-05-24-12-33-11-2.gif)](https://postimg.cc/tsgK9RW2)' border='0' alt='EsTanFacil'/> 
 </div>
 
 ## Características principales
