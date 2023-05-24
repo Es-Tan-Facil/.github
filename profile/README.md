@@ -3,14 +3,12 @@ La "Campaña Es Tan Fácil" es un proyecto conformado por un grupo de amigos, qu
 
 La página web "Es Tan Fácil" nace como un proyecto voluntario y altruista, con el objetivo de dar visibilidad a la campaña y fomentar la colaboración. Cuenta con un diseño llamativo y colorido, donde las diversas secciones se integran dentro de la página principal, a los cuales puedes acceder a través de la barra de navegación. También hay otras dos vistas: la de noticias y la de contacto. El desarrollo de la página fue realizado mediante React, donde se hizo uso de Axios, para facilitar la conexión con el back-end, y de Tailwind, como biblioteca de recursos, y Java Spring Boot y Spring Security, con el objetivo de tener una página web dinámica que nos permitiera gestionar nuestra base de datos, donde almacenamos las donaciones realizadas por los contribuidores y las noticias publicadas por nuestro administrador.
 <div >
-<img style="display: block; margin: 0 auto; text-align: center; vertical-align: middle; max-width: 100%; max-height: 100%;
-style="display: block; margin: 0 auto; text-align: center; vertical-align: middle; max-width: 100%; max-height: 100%; src='https://i.postimg.cc/8zgMhFbK/mobile-7.png' border='0' alt='EsTanFacil'/> 
-<img style="display: block; margin: 0 auto; text-align: center; vertical-align: middle; max-width: 100%; max-height: 100%;
-style="display: block; margin: 0 auto; text-align: center; vertical-align: middle; max-width: 100%; max-height: 100%;  src='[![Campa-a-Es-Tan-F-cil-Firefox-Developer-Edition-2023-05-24-12-33-11-2.gif](https://i.postimg.cc/T3jfqpwM/Campa-a-Es-Tan-F-cil-Firefox-Developer-Edition-2023-05-24-12-33-11-2.gif)](https://postimg.cc/tsgK9RW2)' border='0' alt='EsTanFacil'/> 
+<h3>Home Page</h3>
+<img width="895" alt="homepage" src="https://github.com/Es-Tan-Facil/FrontEnd/blob/main/public/Pictures/Campaña.gif">
 </div>
 
-<h3>Home Page</h3>
-<img width="895" alt="homepage" src="public/Pictures/LandingPage.jpg">
+
+
 
 ## Características principales
 
