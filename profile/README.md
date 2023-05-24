@@ -5,13 +5,12 @@ La página web "Es Tan Fácil" nace como un proyecto voluntario y altruista, con
 <div >
 <h3>Página principal</h3>
 <img width="895" alt="homepage" src="https://github.com/Es-Tan-Facil/FrontEnd/blob/main/public/Pictures/HomePageGIF.gif">
-<h3>Panel de administrador</h3>
-<img width="895" alt="admin" src="https://github.com/Es-Tan-Facil/FrontEnd/blob/main/public/Pictures/AdminGIF.gif">
 <h3>Noticias</h3>
- <img width="895" alt="news" src="https://github.com/Es-Tan-Facil/FrontEnd/blob/main/public/Pictures/NewsGIF.gif">
+<img width="895" alt="news" src="https://github.com/Es-Tan-Facil/FrontEnd/blob/main/public/Pictures/NewsGIF.gif">
 <h3>Contacto</h3>
 <img width="895" alt="contact" src="https://github.com/Es-Tan-Facil/FrontEnd/blob/main/public/Pictures/ContactGIF.gif">
-
+<h3>Panel de administrador</h3>
+<img width="895" alt="admin" src="https://github.com/Es-Tan-Facil/FrontEnd/blob/main/public/Pictures/AdminGIF.gif">
 </div>
 
 
