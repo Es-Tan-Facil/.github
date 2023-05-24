@@ -9,6 +9,9 @@ style="display: block; margin: 0 auto; text-align: center; vertical-align: middl
 style="display: block; margin: 0 auto; text-align: center; vertical-align: middle; max-width: 100%; max-height: 100%;  src='[![Campa-a-Es-Tan-F-cil-Firefox-Developer-Edition-2023-05-24-12-33-11-2.gif](https://i.postimg.cc/T3jfqpwM/Campa-a-Es-Tan-F-cil-Firefox-Developer-Edition-2023-05-24-12-33-11-2.gif)](https://postimg.cc/tsgK9RW2)' border='0' alt='EsTanFacil'/> 
 </div>
 
+<h3>Home Page</h3>
+<img width="895" alt="homepage" src="public/Pictures/CampañaGIF.gif">
+
 ## Características principales
 
 - Página principal: dispone de una barra de navegación que permite moverse entre las diversas secciones, una cabecera de diseño propio donde se integran varias imágenes del proyecto Es Tan Fácil, y las propias secciones de: "Colabora con Nostros", donde podemos visualizar cuatro cartas, con un modal, que ofrecen información sobre las formas de colaborar, la sección de "Quiénes somos", donde ofrecemos una breve descripción del proyecto, una sección de "Últimas noticias", donde mostramos, por orden cronológico, las tres últimas noticias publicadas, la sección de "Nuestro viaje", donde ofrecemos una descripción de en qué consiste el viaje, y por último la sección de la animación del autobús, donde, en función de los kilómetros donados, el vehículo avanza. También contamos con un botón que nos permite volver de forma directa a la parte superior de la página web. 
