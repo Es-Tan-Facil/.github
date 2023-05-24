@@ -10,7 +10,7 @@ style="display: block; margin: 0 auto; text-align: center; vertical-align: middl
 </div>
 
 <h3>Home Page</h3>
-<img width="895" alt="homepage" src="public/Pictures/CampañaGIF.gif">
+<img width="895" alt="homepage" src="public/Pictures/LandingPage.jpg">
 
 ## Características principales
 
